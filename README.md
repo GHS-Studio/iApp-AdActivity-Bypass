@@ -1,5 +1,7 @@
 # iApp-SkipAd
 
+📖 中文说明：[README_zh_cn.md](README_zh_cn.md)
+
 A simple **iApp (Android)** project that demonstrates how to **skip advertisement Activities** by directly jumping to non‑ad Activities.
 
 Many Android apps display splash or interstitial ads using a **separate Ad Activity**.  
